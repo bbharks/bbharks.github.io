@@ -2,14 +2,14 @@
 
 
 
-
+<html>
 <div>
   <div id="map" style="width: 400px; height: 400px;"></div>
 
 <script src="https://maps.google.com/maps/api/js?key=AIzaSyC0kJP6PVDMSHhpbR0D92YEYaKckhubSVM"></script>
 </div>
 
-
+</html>
 
 <script>
 var locations = [
@@ -60,6 +60,9 @@ var locations = [
 
 
 </script>
+
+
+
 
 
 
